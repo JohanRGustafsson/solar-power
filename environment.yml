@@ -1,0 +1,14 @@
+name: solar-power
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - notebook 
+  - pandas 
+  - bokeh 
+  - nodejs 
+  - panel 
+  - holoviews
+  - python-decouple
